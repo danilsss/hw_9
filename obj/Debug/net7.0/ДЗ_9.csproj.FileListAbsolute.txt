@@ -1,0 +1,15 @@
+C:\Users\Danil\Documents\GB\3_Программирование\ДЗ_9\bin\Debug\net7.0\ДЗ_9.exe
+C:\Users\Danil\Documents\GB\3_Программирование\ДЗ_9\bin\Debug\net7.0\ДЗ_9.deps.json
+C:\Users\Danil\Documents\GB\3_Программирование\ДЗ_9\bin\Debug\net7.0\ДЗ_9.runtimeconfig.json
+C:\Users\Danil\Documents\GB\3_Программирование\ДЗ_9\bin\Debug\net7.0\ДЗ_9.dll
+C:\Users\Danil\Documents\GB\3_Программирование\ДЗ_9\bin\Debug\net7.0\ДЗ_9.pdb
+C:\Users\Danil\Documents\GB\3_Программирование\ДЗ_9\obj\Debug\net7.0\ДЗ_9.csproj.AssemblyReference.cache
+C:\Users\Danil\Documents\GB\3_Программирование\ДЗ_9\obj\Debug\net7.0\ДЗ_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\Documents\GB\3_Программирование\ДЗ_9\obj\Debug\net7.0\ДЗ_9.AssemblyInfoInputs.cache
+C:\Users\Danil\Documents\GB\3_Программирование\ДЗ_9\obj\Debug\net7.0\ДЗ_9.AssemblyInfo.cs
+C:\Users\Danil\Documents\GB\3_Программирование\ДЗ_9\obj\Debug\net7.0\ДЗ_9.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Documents\GB\3_Программирование\ДЗ_9\obj\Debug\net7.0\ДЗ_9.dll
+C:\Users\Danil\Documents\GB\3_Программирование\ДЗ_9\obj\Debug\net7.0\refint\ДЗ_9.dll
+C:\Users\Danil\Documents\GB\3_Программирование\ДЗ_9\obj\Debug\net7.0\ДЗ_9.pdb
+C:\Users\Danil\Documents\GB\3_Программирование\ДЗ_9\obj\Debug\net7.0\ДЗ_9.genruntimeconfig.cache
+C:\Users\Danil\Documents\GB\3_Программирование\ДЗ_9\obj\Debug\net7.0\ref\ДЗ_9.dll
